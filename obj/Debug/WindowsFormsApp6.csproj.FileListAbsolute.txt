@@ -1,0 +1,10 @@
+D:\учеба\ТРПО\-\bin\Debug\WindowsFormsApp6.exe.config
+D:\учеба\ТРПО\-\bin\Debug\WindowsFormsApp6.exe
+D:\учеба\ТРПО\-\bin\Debug\WindowsFormsApp6.pdb
+D:\учеба\ТРПО\-\obj\Debug\WindowsFormsApp6.csprojAssemblyReference.cache
+D:\учеба\ТРПО\-\obj\Debug\WindowsFormsApp6.Form1.resources
+D:\учеба\ТРПО\-\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+D:\учеба\ТРПО\-\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+D:\учеба\ТРПО\-\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+D:\учеба\ТРПО\-\obj\Debug\WindowsFormsApp6.exe
+D:\учеба\ТРПО\-\obj\Debug\WindowsFormsApp6.pdb
