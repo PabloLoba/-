@@ -34,12 +34,24 @@ namespace WindowsFormsApp6
 
         private void button3_Click(object sender, EventArgs e)
         {
+            textBox1.Text = " ";
 
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
+            textBox2.Text = " ";
+        }
 
+        private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if (Char.IsNumber(e.KeyChar) ||
+            (!string.IsNullOrEmpty(textBox1.Text) && e.KeyChar == ','))
+            {
+                return;
+            }
+
+            e.Handled = true;
         }
     }
 }
